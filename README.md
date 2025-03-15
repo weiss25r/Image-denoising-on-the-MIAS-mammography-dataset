@@ -19,7 +19,7 @@ An example is the following:
 
 <div style="display: flex; justify-content: center; text-align: center;">
   <figure style="margin: 10px;">
-    <img src="docs/mdb045.png alt="Prima" width="45%">
+    <img src="docs/mdb045.png" alt="Prima" width="45%">
     <figcaption>Input</figcaption>
   </figure>
   <figure style="margin: 10px;">
