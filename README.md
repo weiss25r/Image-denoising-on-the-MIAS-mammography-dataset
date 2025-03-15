@@ -4,8 +4,8 @@ This project was developed as part of the Multimedia course, taught by Prof. Dar
 
 The goal of this project is to build an image processing pipeline to remove artifacts, such as block of texts, in a set of mammography images.
 This data pre-processing pipeline can be seen as a way to prepare data for classification tasks.
-The dataset used is the "Mias Mammography" dataset available at the following link: https://www.kaggle.com/datasets/kmader/mias-mammography, with **license described below.**
-The images are not included in this repo and should be download apart from the link above.
+The dataset used is the "Mias Mammography dataset" available at the following link: https://www.kaggle.com/datasets/kmader/mias-mammography, with **license described below.**
+The dataset consists of 322 images, which are not included in this repo and must be downloaded separately from the above link.
 
 The constructed pipeline consists of:
 - flipping some image for compliance
