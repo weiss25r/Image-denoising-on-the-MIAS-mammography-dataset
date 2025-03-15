@@ -17,11 +17,9 @@ The pipeline is fully described in the following report: **docs/raffaele_terraci
 
 An example is the following:
 
-| Prima | Dopo |
+| Input | Output |
 |-------|------|
 | ![Input](docs/mdb045.png) | ![Output](docs/mdb_final045.png) |
-| <p align="center">*Input*</p> | <p align="center">*Output*</p> |
-
 Credits to the Mammographic Image Analysis Society ("MIAS").
 
 Acknowledgements/LICENCE
