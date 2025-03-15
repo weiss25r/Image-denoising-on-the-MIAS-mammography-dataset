@@ -3,7 +3,7 @@
 This project was developed as part of the Multimedia course, taught by Prof. Dario Allegra and Prof. Filippo Stanco as part of the Master's Degree in Computer Science at University of Catania.
 
 The goal of this project is to build an image processing pipeline to remove artifacts, such as block of texts, in a set of mammography images.
-This data pre-processing pipeline can be seen as a way to prepare data for classification tasks..
+This data pre-processing pipeline can be seen as a way to prepare data for classification tasks.
 The dataset used is the "Mias Mammography" dataset available at the following link: https://www.kaggle.com/datasets/kmader/mias-mammography, with **license described below.**
 The images are not included in this repo and should be download apart from the link above.
 
