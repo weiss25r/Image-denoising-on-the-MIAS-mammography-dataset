@@ -20,7 +20,7 @@ An example is the following:
 | Prima | Dopo |
 |-------|------|
 | ![Input](docs/mdb045.png) | ![Output](docs/mdb_final045.png) |
-| *Input* | *Output* |
+| <p align="center">*Input*</p> | <p align="center">*Output*</p> |
 
 Credits to the Mammographic Image Analysis Society ("MIAS").
 
