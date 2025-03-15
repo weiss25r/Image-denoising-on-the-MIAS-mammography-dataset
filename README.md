@@ -24,7 +24,7 @@ An example is the following:
   </figure>
   <figure style="margin: 10px;">
     <img src="docs/mdb_final045.png"  alt="Dopo" width="45%">
-    <figcaption>Output/figcaption>
+    <figcaption>Output</figcaption>
   </figure>
 </div>
 
