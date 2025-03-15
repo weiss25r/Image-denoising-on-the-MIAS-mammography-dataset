@@ -17,16 +17,10 @@ The pipeline is fully described in the following report: **docs/raffaele_terraci
 
 An example is the following:
 
-<div style="display: flex; justify-content: center; text-align: center;">
-  <figure style="margin: 10px;">
-    <img src="docs/mdb045.png" alt="Prima" width="45%">
-    <figcaption>Input</figcaption>
-  </figure>
-  <figure style="margin: 10px;">
-    <img src="docs/mdb_final045.png"  alt="Dopo" width="45%">
-    <figcaption>Output</figcaption>
-  </figure>
-</div>
+| Prima | Dopo |
+|-------|------|
+| ![Input](docs/mdb045.png) | ![Output](docs/mdb_final045.png) |
+| *Input* | *Output* |
 
 Credits to the Mammographic Image Analysis Society ("MIAS").
 
