@@ -7,6 +7,8 @@ This data pre-processing pipeline can be seen as a way to prepare data for class
 The dataset used is the "Mias Mammography" dataset available at the following link: https://www.kaggle.com/datasets/kmader/mias-mammography, with **license described below.**
 The images are not included in this repo and should be download apart from the link above.
 
+The pipeline is fully described in the report docs/raffaele_terracino_multimedia_project_report.pdf
+
 Credits to the Mammographic Image Analysis Society ("MIAS")
 
 Acknowledgements/LICENCE
