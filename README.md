@@ -13,7 +13,15 @@ The constructed pipeline consists of:
 - removal of large white stripes;
 - removal of small white regions, such as circles and small stripes;
 
-The pipeline is fully described in the following report: **docs/raffaele_terracino_multimedia_project_report.pdf**
+The pipeline is fully described in the following report: **docs/raffaele_terracino_multimedia_project_report.pdf**.
+
+An example is the following:
+
+<div style="display: flex; justify-content: center;">
+  <img src="docs/mdb045.png" alt="Input" width="45%">
+  <img src="docs/mdb_final045.png" alt="Output" width="45%">
+</div>
+
 
 Credits to the Mammographic Image Analysis Society ("MIAS").
 
