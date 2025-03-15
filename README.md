@@ -20,6 +20,7 @@ An example is the following:
 | Input | Output |
 |-------|------|
 | ![Input](docs/mdb045.png) | ![Output](docs/mdb_final045.png) |
+
 Credits to the Mammographic Image Analysis Society ("MIAS").
 
 Acknowledgements/LICENCE
